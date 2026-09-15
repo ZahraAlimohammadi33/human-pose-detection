@@ -17,6 +17,20 @@ A real-time human pose detection project using MediaPipe Pose Landmarker and Ope
 - MediaPipe
 - NumPy
 
+## Demo
+
+<p align="center">
+  <img src="assets/standing-sitting.png" width="25%" />
+  <img src="assets/sitting.png" width="25%" />
+  <img src="assets/sittings.png" width="25%" />
+  <img src="assets/sitting-example.png" width="25%" />
+</p>
+<p align="center">
+  <img src="assets/standing-eample-2.png" width="25%" />
+  <img src="assets/standing-example-3.png" width="25%" />
+  <img src="assets/standing-example.png" width="25%" />
+</p>
+
 ## How to Run
 
 1. Install the dependencies:
